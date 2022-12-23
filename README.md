@@ -1,7 +1,7 @@
 # mcheli.src
 The [MCHeli 1.0.4](https://www.mediafire.com/file/5whw0lum8yunl4b) in Minecraft 1.7.10.
 
-Decompiled by [Procyon(Built in Deobfuscator3000)](https://github.com/SimplyProgrammer/Minecraft-Deobfuscator3000).
+Decompiled by [Procyon](https://github.com/mstrobel/procyon) [(Built in Deobfuscator3000)](https://github.com/SimplyProgrammer/Minecraft-Deobfuscator3000).
 
 Deobfuscated with [Deobfuscator3000](https://github.com/SimplyProgrammer/Minecraft-Deobfuscator3000).
 
